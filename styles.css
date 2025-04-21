@@ -1,0 +1,19 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+}
+header, section, footer {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.project {
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px;
+}
+@media (max-width: 600px) {
+    h1 {
+        font-size: 24px;
+    }
+}
